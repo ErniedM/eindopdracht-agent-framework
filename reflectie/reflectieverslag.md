@@ -24,6 +24,7 @@ Het is natuurlijk mogelijk om nieuwe modules te schrijven en deze toe te voegen 
 ...
 
 ## De keuzes
+---
 Aangezien de opdracht vereist om het programma te structureren met het oog op overzichtelijkheid, onderhoudbaarheid en herbruikbaarheid van componenten, heb ik ervoor gekozen om een mapstructuur op te zetten. De mapstructuur ziet er als volgt uit:
 - config
 - logs
