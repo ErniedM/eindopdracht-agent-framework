@@ -1,0 +1,18 @@
+[
+    {
+        "module_name": "system_info",
+        "class_name": "SystemInfoModule"
+    },
+    {
+        "module_name": "software_inventory",
+        "class_name": "SoftwareInventoryModule"
+    },
+    {
+        "module_name": "hardware_inventory",
+        "class_name": "HardwareInventoryModule"
+    },
+    {
+        "module_name": "network_inventory",
+        "class_name": "NetworkInventoryModule"
+    }
+]
