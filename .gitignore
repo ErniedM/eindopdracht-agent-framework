@@ -1,3 +1,4 @@
 venv
 key.txt
 file_encryption.py
+__pycache__
