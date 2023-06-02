@@ -1,5 +1,5 @@
 # Reflectie verslag
-**Ernie de Magtige - 2ITCSC2 - [Eindopdracht](https://github.com/ErniedM/eindopdracht-agent-framework)**
+**Ernie de Magtige - 2ITCSC2 - [Eindopdracht-Repo](https://github.com/ErniedM/eindopdracht-agent-framework)**
 
 ---
 Aangezien ik meer afiniteit heb met systeemontwikkeling, heb ik ervoor gekozen om een agent-framework te maken. Het idee is om op elke computer van een bedrijf de agent-toepassing te installeren om zo informatie over het computerpark centraal te verzamelen en te valideren.
